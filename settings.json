@@ -1,0 +1,46 @@
+{
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "explorer.confirmDelete": false,
+  "synthwave84.brightness": 0.25,
+
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "terminal.integrated.enableMultiLinePasteWarning": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "settingsSync.ignoredSettings": [],
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "git.suggestSmartCommit": false,
+  "workbench.colorTheme": "One Dark Pro",
+  "git.autofetch": true,
+  "cSpell.userWords": ["currentdate", "Formik", "Swal"],
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "cSpell.enableFiletypes": ["!python"],
+  "editor.fontSize": 16,
+  "editor.tabSize": 3,
+  "editor.guides.bracketPairsHorizontal": true,
+  "editor.guides.bracketPairs": true,
+  "editor.wordWrap": "on",
+  "workbench.colorCustomizations": {
+    "editorBracketHighlight.foreground1": "#5caeef",
+    "editorBracketHighlight.foreground2": "#dfb976",
+    "editorBracketHighlight.foreground3": "#c172d9",
+    "editorBracketHighlight.foreground4": "#4fb1bc",
+    "editorBracketHighlight.foreground5": "#97c26c",
+    "editorBracketHighlight.foreground6": "#abb2c0",
+    "editorBracketHighlight.unexpectedBracket.foreground": "#db6165"
+  }
+}
